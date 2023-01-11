@@ -1,0 +1,111 @@
+body { 
+background-image:url(https://www.pixelstalk.net/wp-content/uploads/images6/Aesthetic-Wallpaper-Purple-Wallpaper-Romantic.png);
+background-attachment: fixed;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;}
+.oo .btn{
+font-weight: 900; border-radius: 300px; color:black; border: 1px solid rgb(165, 0, 173);
+}
+.oo .btn-primary{
+margin-top:17px ;
+background-color: rgb(165, 0, 173); !important;
+}
+.oo .btn-primary:hover {
+background-color: rgb(0, 0, 0, 0.5); !important;
+color:rgb(165, 0, 173);
+border: 2px solid rgb(165, 0, 173)
+}
+.oo{
+  background-color: black;
+}
+
+.jj {
+color:rgb(165, 0, 173);
+font-family: sans-serif;
+padding: 10px 30px;
+}
+.ll{
+  color:white;
+  padding: 25px 20px 20px 20px;
+  font-family: sans-serif;
+  color:rgb(165, 0, 173);
+}
+.mm {
+background-color: black;
+}
+.kk {
+display:flex;
+flex-wrap:wrap;
+justify-content: center;
+}
+.pp{
+text-align:center;
+color:rgb(17, 1, 24);
+text-decoration: overline;
+font-family: sans-serif;
+}
+.qq{
+text-align:center;
+color: rgb(17, 1, 24); 
+font-family: sans-serif; 
+}
+.rr {
+  color:rgb(204, 97,255);
+  text-align: center;
+}
+.ss{
+background-color: rgb(17, 1, 24, 0.5);
+}
+.a1 {
+width:180px;
+height:250px;
+margin: 10px;
+}
+.a2 {
+width:180px;
+height:250px;
+margin: 10px;
+}
+.a3 {
+width:350px;
+height:250px;
+margin: 10px;
+}
+.a4 {
+width:180px;
+height:250px;
+margin: 10px;
+}
+.a5 {
+width:180px;
+height:250px;
+margin: 10px;
+}
+.a6 {
+width:180px;
+height:250px;
+margin: 10px;
+}
+.a7 {
+width:150px;
+height:250px;
+margin: 10px;
+}
+.a8 {
+width:180px;
+height:250px;
+margin: 10px;
+}
+.a9 {
+width:300px;
+height:250px;
+margin: 10px;
+}
+img {
+  transition: all 1.2s;
+  border-radius: 10px;
+}
+img:hover {
+  transform: scale(1.05);
+}
